@@ -15,7 +15,7 @@ Official React/Next.js template for the [SyncEthic AI SDK](https://syncethicai.c
 
 <img width="1344" height="611" alt="syncEthic chatbot1" src="https://github.com/user-attachments/assets/8e5a6a8f-6e65-4fc9-a66d-26b3c9ee6e0b" />
 
-<img width="1357" height="612" alt="syncEthic AI chatbot" src="https://github.com/user-attachments/assets/59614a80-58fa-4da6-9cd2-2289a14e2482" />
+
 
 ### 1. Clone the repository
 
