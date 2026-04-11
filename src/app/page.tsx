@@ -72,6 +72,7 @@ export default function TestSDKPage() {
         endpoint={endpoint}
         primaryColor="#4f46e5"
         botName={botSlug === "finance_advisor" ? "Finance Advisor" : "AI Assistant"}
+        style={{ height: '520px', maxHeight: 'calc(100vh - 120px)' }}
       />
     </div>
   );
