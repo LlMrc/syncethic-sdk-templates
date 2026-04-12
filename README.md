@@ -1,3 +1,4 @@
+
 # SyncEthic AI SDK Template
 
 Official React/Next.js template for the [SyncEthic AI SDK](https://syncethicai.com). Embed a powerful, intelligent chatbot into your web application in seconds.
@@ -11,6 +12,10 @@ Official React/Next.js template for the [SyncEthic AI SDK](https://syncethicai.c
 - ✨ **Animated Call-to-Action** to drive user engagement
 
 ## Quick Start
+
+<img width="1344" height="611" alt="syncEthic chatbot1" src="https://github.com/user-attachments/assets/8e5a6a8f-6e65-4fc9-a66d-26b3c9ee6e0b" />
+
+
 
 ### 1. Clone the repository
 
